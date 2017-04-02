@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/09/2015, 01:29:24 PM
+    Author     : carlos
+*/
+.consultarProducto{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: rgba(236,240,241,0.7);
+    border-radius: 4px;
+    -webki-border-radius:4px;
+    -moz-border-radius: 4px;
+    box-shadow: 0px 2px 10px #d6d6d6;
+    text-align: center;
+    padding: 11px;
+    
+
+}
+
+
+
+
+.muestraproducto{
+    margin: 0 auto;
+    width: 900px;
+    background-color: rgba(236,240,241,0.7);
+    border-radius: 4px;
+    -webki-border-radius:4px;
+    -moz-border-radius: 4px;
+    box-shadow: 0px 2px 10px #d6d6d6;
+    text-align: left;
+    padding: 11px;
+
+
+}
+
+img{
+
+    float: left;
+}
+
+.formulario2{
+    float:left;
+
+}
+
+
+.pie{
+    height: 10px;
+
+}
+
+.boton{
+
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+
